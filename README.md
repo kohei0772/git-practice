@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-Practice rebase.
+Practice rebase conflict on main.
